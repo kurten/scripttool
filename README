@@ -1,0 +1,5 @@
+工具脚本说明
+
+pytool: python写的工具脚本，主要用于处理一些sql文本，写一次跑完了就丢
+
+shtool: shell，跑一些程序的shell
